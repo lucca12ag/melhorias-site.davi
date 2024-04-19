@@ -1,5 +1,4 @@
 
-
 h1 {
     text-align: center;
     color: rgb(18, 36, 31);
@@ -24,3 +23,9 @@ body {
         border: 5px solid;
         border-radius: 15%;
     }
+    
+   img{
+    border: 50px;
+    border-style: groove;
+    border-color: rgb(18, 36, 31);
+   }
